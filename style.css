@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+#brasil{
+    border: solid 3px black;
+    height: 40vh;
+    width: 80vw;
+    background-color: lightblue;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.brasilmg{
+    height: 30vh;
+    width: 20vw;
+}
