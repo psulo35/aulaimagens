@@ -10,6 +10,7 @@ h2{
     height: 40vh;
     width: 80vw;
     background-image: url(https://i.pinimg.com/originals/8b/7b/d5/8b7bd5c7ec221b186e3f63fccaaff4a8.gif);
+    background-size: 50px;
     margin: auto;
     display: flex;
     justify-content: center;
