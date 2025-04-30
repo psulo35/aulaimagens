@@ -6,10 +6,10 @@ h2{
     text-align: center;
 }
 #brasil{
-    border: solid 3px red;
+    border: solid 3px black;
     height: 40vh;
     width: 80vw;
-    background-color: lightblue;
+    background-image: url(https://i.pinimg.com/originals/8b/7b/d5/8b7bd5c7ec221b186e3f63fccaaff4a8.gif);
     margin: auto;
     display: flex;
     justify-content: center;
